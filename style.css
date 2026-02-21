@@ -1,0 +1,23 @@
+h1 {
+    font-family:SN Pro Display, sans-serif; 
+    color: #ffffff; 
+    background-color: #000000;
+}
+span{
+    color:rgb(36, 246, 246);
+}
+.projects{
+    font-family:SN Pro Display, sans-serif;
+    color:azure;
+    text-align:center;
+    background-color:#6d009c;
+}
+a{
+    color:#4e076c;
+}
+.contact{
+    font-family:SN Pro Display, sans-serif;
+    color:#4e076c;
+    text-align:end;
+    background-color:#e1faf8;
+}
