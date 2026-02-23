@@ -2,6 +2,8 @@ h1 {
     font-family:SN Pro Display, sans-serif; 
     color: #ffffff; 
     background-color: #000000;
+    padding:10px;
+    margin:10px;
 }
 span{
     color:rgb(36, 246, 246);
@@ -9,9 +11,12 @@ span{
 .projects{
     font-family:SN Pro Display, sans-serif;
     font-style:italic;
+    font-size:20px;
     color:azure;
     text-align:center;
     background-color:#6d009c;
+    padding:10px;
+    margin:10px;
 }
 a{
     color:#4e076c;
@@ -20,5 +25,9 @@ a{
     font-family:SN Pro Display, sans-serif;
     color:#4e076c;
     text-align:end;
-    background-color:#e1faf8;
+    background-color:#b5c8ff;
+    padding:10px 15px 10px 10px;
+    margin:10px;
+
+
 }
